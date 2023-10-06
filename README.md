@@ -5,8 +5,6 @@
 </p>
 
 
-
-
 <p align="center">
   A beautiful replacement for JavaScript's "alert"
 </p>
